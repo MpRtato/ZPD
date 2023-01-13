@@ -1,1 +1,1 @@
-#Kods izmantojot "PlatformIO" paplašinājumu "Visual Studio Code" koda redaktora
+Kods izmantojot "PlatformIO" paplašinājumu "Visual Studio Code" koda redaktora
