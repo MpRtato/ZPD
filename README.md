@@ -1,2 +1,2 @@
 # ZPD
-Kods kas ir zpd pielikumā
+Ierīces kods kas ir zpd pielikumā
