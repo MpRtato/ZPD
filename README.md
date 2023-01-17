@@ -1,2 +1,3 @@
 # ZPD KODS
-Ierīces kods kas ir zpd pielikumā
+Ierīces kods kas ir zpd pielikumā\
+Nepieciesamas
