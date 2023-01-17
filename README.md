@@ -1,5 +1,5 @@
 # ZPD KODS
-Ierīces kods kas atrodas zpd pielikumā
+Pilnais uztvērēja kods
 
 ### Nepieciesamas bibliotekas:
 1. TEA5767 (Autors: big12boy) (https://github.com/big12boy/TEA5767)
